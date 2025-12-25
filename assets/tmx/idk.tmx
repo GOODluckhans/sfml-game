@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="20" tileheight="30" infinite="0" nextlayerid="4" nextobjectid="44">
+ <editorsettings>
+  <export target="../JSON/map.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="75olaxbo" tilewidth="20" tileheight="30" tilecount="391" columns="23">
+  <image source="../../../../../Users/ASUS/Downloads/75olaxbo.png" width="474" height="518"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="40" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCAC10AACCtAAAAAQB53HdE
+  </data>
+ </layer>
+ <objectgroup id="2" name="Trees">
+  <object id="22" x="118.667" y="299.018" width="24.6316" height="9.68421"/>
+  <object id="23" x="230.035" y="300.631" width="21.9649" height="9.68421"/>
+  <object id="24" x="310.667" y="304" width="21.3333" height="8"/>
+  <object id="25" x="156" y="370.667" width="16" height="8"/>
+  <object id="26" x="273.333" y="372" width="18.6667" height="8"/>
+  <object id="27" x="429.333" y="310.667" width="20" height="8"/>
+  <object id="28" x="497.333" y="330.667" width="21.3333" height="8"/>
+ </objectgroup>
+ <objectgroup id="3" name="collision">
+  <object id="40" x="788" y="6" width="10" height="584"/>
+  <object id="41" x="6" y="4" width="774" height="8"/>
+  <object id="42" x="4" y="20" width="4" height="570"/>
+  <object id="43" x="16" y="580" width="770" height="10"/>
+ </objectgroup>
+</map>

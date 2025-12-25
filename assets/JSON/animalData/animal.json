@@ -1,0 +1,18 @@
+{
+  "animals": {
+    "Temperate Deciduous Forest": [
+      {
+        "name": "rabbit",
+        "chance": 50,
+        "rarity":   "common"
+      }
+    ],
+    "Boreal Forest (Taiga)": [
+      {
+        "name": "lion",
+        "chance": 50,
+        "rarity" :  "common"
+      }
+    ]
+  }
+}

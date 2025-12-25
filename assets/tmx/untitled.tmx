@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="20" tileheight="30" infinite="0" nextlayerid="4" nextobjectid="34">
+ <editorsettings>
+  <export target="../JSON/map.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="4c23w8da" tilewidth="20" tileheight="30" tilecount="950" columns="50">
+  <image source="../../../../../Users/ASUS/Downloads/4c23w8da.png" width="1000" height="573"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="40" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCAC40sAHqzaBUmELjdWAP8//////Wl+//A/y/Ebk//7rf7v+RiPNv9////f28pZQoaAVQBYQEnuSSP5JD8kTvyRs7IF7kiT+SI/JAb8kJOyAe5IA/kdryO0/E5LsfjOBx/4268jbPxNa7G0zgaP+NmvIx/Ohkf42I8jIPxL+7FuzgX3+Ke3umcvumanumYfumWXumUDsWfuBNv4kx8iSvxJI7Ej7gRL+JEfIgL8SAOxH+4D+/hPHyH6/AcjsNvuA2v4TR80iU90iH90R290Rl90RU90VM4Cj/hJryEk/ARLsJDOAj/4B68g3PwDa7BMzgGR/QLbsErOAWf4BI8gkPwB37ohl7ohD7ogh7ogP7nft7nfJ7neG7ACzgBH+B3bucCPIAD8Dqn8zmX8ziH8zd38zZn8zVX8zRH8zM38zIn8zEX8zAH8y/38i7n8ru9ricFx/XG5cbVxsXGtcalxpXGhcZ1xmXGVcb16SLjGuMS4wrjAuP64vLi6uLi4tri8nR1ujhdmy5NV6YL03XpsnRVuihdWlxZXFhcV1xWXFVcSlxJXEhcR1xGXEVcRFxDXEJcQVxAXD9cPlw9XDxcO1w6XDlcOFw3XDZcNVw0XJMuSVekC9L16HJ0NboYXYsuRVeia4ZLhiuGC4brhcuFa4RLhCuEC4Trg8uDq4OLg2uDS4MrgwuDC9F1wWXBVcFFwTXBJcEVwQXB9cB16DJ0FboIXYMuQVegC9D15/Jz9bn4XA5cDVwMXAtcClx7rjuXnUuAK4ALgKvOReeac8m54lxwrjeXm6vNxeZac6m50lxorjOXmavMReYac4m5wlxgri+Xl6vLxeW6y656y215LaflsxyVn3JTXspJ+SgX5aEclH9yT97JOfkm1+SZHJNfckteySk5GyHbIJsgWyAbINsfmx9bHxsf2x6bHlseGx7bHZsdWx2bGlsaGxrbGZsZWxnbJ09bp43TtmnTtGXaMG2XNktbpY3SpsWWxYbFdsVmxVbFRsU2xSbFFsUGxfbERsQ2xCbEFsQGxPbD5sOkTdIWaYO0PdocbY02RtuiTdGWaJthk2GLYYNhe2FzYWthY2FbYVNhS2FDYetg42DbYNNgy2DDYEO0XVCPQ5uhrdBGaBu0CdoCbYC2P5ufrc/GZ3Nga2BjYFtgU2DbsyWwIbAdsOnZ8mx4NjrbnE3OFmeDs73Z3GxtNjZXZyuzkdnGbGK2MBuY7cvmZeuycdlus61uuWy5arlouWa5ZLliuWC5XrlcuVq5RLlCuUC5Prk8uTq5OLk2uTS5MrkwuS65LLkquSi5JrkkuSK5ILkeuRy5GrkYuRa5FLkSuRC5DrkMuQq5CLkGuQS5ArkAuf64/Lj6uPi49jjfp4+Mb4xPjC+MD4zvi8+Lr4uPi2+Lz9PX6eP0bfo0fZk+TN+lz9JX6aP0afFl8WHxXfFZ8VXxUfFN8UnxRfFB8T3xOfE18THxLfEp8SXx9fDx8O3w6fDl8OHw3fDZ8NXw0fBN+iR9kT5I36PP0dfoY/Qt+hR9ib4ZPhm+GD4Yvhc+F74WPha+FT4VvhQ+FL4TPhO+Ej4SvhE+ET5EnwVfBR8F3wSfBF8EHwTfA9+hz9BX6CP0DfoEfYE+QN+fz8/X5+PzOfA18DHwLfAp8O35EvgQ+A749Hx5PjyfAV8BHwHfAN+dz87n5mvzrfnUfGk+NN+Zz8xX5iPzjfnEfGE+MN+Xz8vX5ePy3Wdf3bLZstWy0bLNssmyxbLBsr2yubK1srGyrbKpsqWyobKdsnGybbJpsmWyYbJdslmyVbJRsk2ySbJFskGyPbI5sjWyMbItsimyJbIhsh2yGbIVEhAAIBASBEKSnSKcPmhghoBYvb3i9tVGxiLfWWY/A7srHPiYTNpOQTHZzDmViVMMKTPlsg==
+  </data>
+ </layer>
+ <objectgroup id="3" name="Collision" offsetx="-4" offsety="0">
+  <object id="10" x="348" y="460" height="2"/>
+  <object id="25" x="4" y="438" width="802" height="162"/>
+  <object id="26" x="6" y="0" width="8" height="438"/>
+  <object id="28" x="796" y="1" width="8" height="438"/>
+  <object id="29" x="505.333" y="332" width="114.667" height="25.3333"/>
+  <object id="30" x="464" y="389.333" width="17.3333" height="48"/>
+  <object id="31" x="485.333" y="360" width="157.333" height="74.6667"/>
+  <object id="32" x="641.333" y="390.667" width="20" height="46.6667"/>
+ </objectgroup>
+</map>

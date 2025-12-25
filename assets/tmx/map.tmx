@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="50" height="22" tilewidth="16" tileheight="18" infinite="0" nextlayerid="4" nextobjectid="8">
+ <editorsettings>
+  <export target="../JSON/map.json" format="json"/>
+ </editorsettings>
+ <layer id="1" name="Tile Layer 1" width="50" height="22">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAwEEUAAAgAAQAsQe+E
+  </data>
+ </layer>
+ <imagelayer id="2" name="main" offsetx="0" offsety="-200">
+  <image source="../Textures/background(MAIN).png" width="800" height="600"/>
+ </imagelayer>
+ <objectgroup id="3" name="Collision">
+  <object id="2" x="102" y="198" width="46" height="48"/>
+  <object id="3" x="120" y="250" width="18" height="22"/>
+  <object id="4" x="112" y="176" width="22" height="20"/>
+  <object id="5" x="642" y="194" width="18" height="82"/>
+  <object id="6" x="260" y="192" width="30" height="36"/>
+  <object id="7" x="274" y="230" width="12" height="42"/>
+ </objectgroup>
+</map>

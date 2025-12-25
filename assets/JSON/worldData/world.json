@@ -1,0 +1,13 @@
+{
+  "Worlds": [
+    {
+      "name": "Temperate Deciduous Forest",
+      "chance": 50
+    },
+    {
+      "name": "Boreal Forest (Taiga)",
+      "chance": 100
+    }
+
+  ]
+}

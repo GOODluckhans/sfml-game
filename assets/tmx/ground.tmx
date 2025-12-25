@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="3">
+ <tileset firstgid="1" name="ground" tilewidth="32" tileheight="32" tilecount="1242" columns="46">
+  <image source="Textures/ground.png" width="1480" height="888"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="40" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCACw0CAJABAAAAogEBAKIBAQCiAccDJAQRoDCDjgEwg8rcBrurO1BHWqXPcbbEx1BlilRWmg9MuVpiJ5IBJcUB1Rt2rbIU
+  </data>
+ </layer>
+ <objectgroup id="2" name="Collision">
+  <object id="2" x="0" y="384" width="1280" height="32"/>
+ </objectgroup>
+</map>

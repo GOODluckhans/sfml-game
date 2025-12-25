@@ -1,0 +1,9 @@
+{
+    "Enemy": {
+        "healthEnem": 1
+    },
+    "player": {
+        "health": 0,
+        "scores": 99
+    }
+}

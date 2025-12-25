@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="20" tileheight="30" infinite="0" nextlayerid="5" nextobjectid="24">
+ <editorsettings>
+  <export target="../JSON/map.json" format="json"/>
+ </editorsettings>
+ <layer id="1" name="Tile Layer 1" width="40" height="20">
+  <data encoding="base64" compression="zstd">
+   KLUv/WCAC0UAAAgAAQB8xHdC
+  </data>
+ </layer>
+ <imagelayer id="2" name="Image Layer 1">
+  <image source="ground.png" width="800" height="600"/>
+ </imagelayer>
+ <objectgroup id="3" name="Trees" visible="0">
+  <object id="4" name="oak" x="102" y="244" width="14" height="12"/>
+  <object id="7" name="oak" x="250.667" y="269.333" width="14.6667" height="13.3333"/>
+  <object id="9" name="oak" x="201.333" y="404" width="14.6667" height="12"/>
+  <object id="13" name="oak" x="393.333" y="297.333" width="14.6667" height="12"/>
+  <object id="16" name="oak" x="100" y="348" width="13.3333" height="12"/>
+ </objectgroup>
+ <objectgroup id="4" name="NPCs" visible="0">
+  <object id="19" name="john" x="318.667" y="300" width="8" height="12"/>
+  <object id="23" name="johny" x="313.333" y="159.333" width="8" height="12"/>
+ </objectgroup>
+</map>
